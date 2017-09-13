@@ -21,6 +21,15 @@ body, form, ul, table {
 .header {
   border-bottom: 1px solid #e5e5e5;
 }
+.hedgehog {
+  width: 71px;
+  height: 71px;
+  display: inline-block;
+  margin-bottom: 1em;
+  background-image: url("/images/noun_844616_cc.svg");
+  background-size: 71px 71px;
+  float: left;
+}
 .logo {
   width: 519px;
   height: 71px;
