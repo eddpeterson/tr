@@ -1,1 +1,28 @@
 /* This file is for your main application css. */
+/* Space out content a bit */
+
+
+.hedgehog {
+  width: 122px;
+  height: 102px;
+  display: inline-block;
+  margin-bottom: 1em;
+  background-image: url("/images/noun_844616_cc.svg");
+  background-size: 122px 102px;
+  float: left;
+}
+.tortoise {
+  width: 122px;
+  height: 102px;
+  display: inline-block;
+  margin-bottom: 1em;
+  background-image: url("/images/noun_809377_cc.svg");
+  background-size: 122px 102px;
+  float: left;
+}
+.title {
+  text-align: center;
+}
+.type-here {
+  margin-top: 2em;
+}
