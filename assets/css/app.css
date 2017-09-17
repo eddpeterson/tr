@@ -26,3 +26,15 @@
 .type-here {
   margin-top: 2em;
 }
+
+.text-to-type {
+  font-size: 2rem;
+  margin-bottom: .5rem;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #CCCCCC;
+}
+.current.text-to-type {
+  color: inherit;
+}

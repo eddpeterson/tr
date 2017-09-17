@@ -1,8 +1,8 @@
 <div class="jumbotron">
-  <h2>ho ho ho</h2>
-  <h2>ho ho ho</h2>
-  <h2>oh oh oh</h2>
-  <h2>oh oh oh</h2>
+  <div data-index="0" class="current text-to-type">ho ho ho</div>
+  <div data-index="1" class="text-to-type">ho ho ho</div>
+  <div data-index="2" class="text-to-type">oh oh oh</div>
+  <div data-index="3" class="text-to-type">oh oh oh</div>
 
   <input id="type_in_text" class="type-here form-control form-control-lg" placeholder="Type here: ho ho ho ..." type="text">
 
