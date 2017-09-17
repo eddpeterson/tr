@@ -5,4 +5,5 @@
   <h2>oh oh oh</h2>
 
   <input id="type_in_text" class="type-here form-control form-control-lg" placeholder="Type here: ho ho ho ..." type="text">
+
 </div>
